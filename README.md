@@ -1,5 +1,3 @@
-# bard-mba-spring-2026
-
 # GitHub for Vibe Coders
 
 ### A Hands-On Lab
